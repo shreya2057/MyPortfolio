@@ -1,0 +1,64 @@
+.footer{
+    margin: 0px;
+    text-align: start;
+    background-color: #21222A;
+    height: 210px;
+    bottom: 0px;
+    width: 100%;
+    vertical-align: bottom;
+}
+
+.footerPart{
+    color: rgb(206, 204, 204);
+    vertical-align: center;
+    margin: 20px;
+    text-align: start;
+    display: inline-block;
+    width: 200px;
+    padding-top: 10px;
+    padding-left: 35px;
+    padding-right: 55px;
+}
+
+#signature{
+    width: 200px;
+}
+
+.signature{
+    vertical-align: center;
+    margin: 20px;
+    text-align: start;
+    display: inline-block;
+    width: 200px;
+    padding-left: 35px;
+    padding-right: 55px;
+}
+
+.intro{
+    color: rgb(206, 204, 204);
+    padding-bottom: 5px;
+}
+
+.navigate{
+    text-decoration: none;
+    color: rgb(206, 204, 204);
+    size: 16px;
+}
+
+.heading{
+    padding-bottom: 7px;
+    font-weight: bold;
+}
+
+.navigateItem{
+    padding-bottom: 5px;
+}
+
+.iconName{
+    padding-left: 5px;
+}
+
+.copyright{
+    text-align: center;
+    color: rgb(105, 104, 104);
+}
