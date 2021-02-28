@@ -1,10 +1,17 @@
 body{
     margin: 0%;
+    background-color: rgb(218, 217, 217);
+}
+
+.resumepaper{
+    width: 80%;
+    background-color: white;
+    margin: 95px;
+    padding: 35px;
 }
 
 .resume{
-    margin: 15px;
-    padding: 30px;
+    padding: 35px;
     border: 5px solid rgb(187, 187, 187);
 }
 
@@ -33,4 +40,30 @@ body{
     font-size: 20px;
     color: rgb(139, 138, 138);
     padding-bottom: 10px;
+}
+
+.headings{
+    padding-top: 5px;
+    font-weight: bold;
+    font-family:monospace;
+    letter-spacing: 0px;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.desc{
+    padding-top: 10px;
+    font-family:monospace;
+    letter-spacing: 0px;
+    font-size: 18px;
+    list-style-position: inside;
+    padding-bottom: 10px;
+}
+
+ul{
+    margin-top: 0px;
+}
+
+li{
+    padding-bottom: 5px;
 }
