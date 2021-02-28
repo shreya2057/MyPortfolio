@@ -1,11 +1,11 @@
 body{
-    text-align: center;
     align-content: center;
     background-color: rgba(212, 212, 212, 0.342);
 }
 .contactPage{
     text-align: center;
     height: 750px;
+    vertical-align: middle;
 }
 
 .contact{
@@ -16,7 +16,7 @@ body{
 }
 
 .contactUs{
-    margin-top: 135px;
+    margin-top: 65px;
     margin-left: 33%;
     margin-right: 10%;
     background-color: white;
@@ -25,4 +25,75 @@ body{
     margin-bottom: 20px;
     border-radius: 15px;
     box-shadow: 2px 2px 2px #8b8686;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+/*.contactimage{
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+}*/
+
+
+#query{
+    display: inline-block;
+    padding-top: 55px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow:3px 3px 3px #696464;
+    font-size: 40px;
+    font-weight:bolder;
+}
+
+#Message{
+    font-family: fantasy;
+    text-shadow:3px 3px 3px #696464;
+}
+
+.icon{
+    display: inline-block;
+    color: #0454a3;
+    font-size: 30px;
+    padding-top: 5px;
+    vertical-align: top;
+}
+
+.text{
+    display: inline-block;
+    color: #0454a3;
+    text-align: start;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+
+.quote{
+    height: 50px;
+    display: inline-block;
+    
+}
+
+.send{
+    color: black;
+}
+
+#contact{
+    padding-top: 30px;
+}
+
+.platform{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: start;
+    padding-left: 25%;
+}
+
+.connect{
+    text-decoration: none;
+    color: #0454a3;
+}
+
+.connectName{
+    padding-left: 5px;
 }
